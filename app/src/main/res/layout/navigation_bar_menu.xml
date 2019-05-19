@@ -1,0 +1,13 @@
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        id="@+id/tab_notes"
+        android:icon="@drawable/ic_mode_edit_black_24dp"
+        android:title="Note"
+        activeColor="@color/colorAccent"
+        />
+    <tab
+        id="@+id/tab_lists"
+        android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+        android:title="List"
+        activeColor="@color/colorAccent"/>
+</tabs>
